@@ -181,12 +181,9 @@
       ============================= */
   
   ul.row {
-  
     display: flex;
   }
 
- 
-  
   [class*='col-'] {
     padding: 0.5rem;
   }

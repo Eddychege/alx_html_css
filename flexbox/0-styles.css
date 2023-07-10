@@ -1,4 +1,3 @@
-
 /* SUMMARY
     1. GLOBAL
     2. LAYOUT
@@ -189,12 +188,14 @@
   }
   
  
+  
   [class*='col-'] {
     /*remove float: left*/
     padding: 0.5rem;
   }
   /*remove .row::after*/
-
+ 
+  
   .col-1-3 {
     width: 33.33%;
   }
@@ -499,4 +500,3 @@
     font-size: 10rem;
     z-index: -1;
   }
-    

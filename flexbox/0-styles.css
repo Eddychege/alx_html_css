@@ -186,14 +186,13 @@
     list-style: none;
     display: flex;
   }
-  
+
  
   
   [class*='col-'] {
-    /*remove float: left*/
     padding: 0.5rem;
   }
-  /*remove .row::after*/
+ 
  
   
   .col-1-3 {

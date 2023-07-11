@@ -178,18 +178,18 @@
     margin-right: auto;
   }
   
-  /* Grid
-      ============================= */
-  
-  .row {
+  /* Grid   ============================= */
+   .row {
     display: flex;
   }
 
     ul.row{
         margin: -1rem;
     } 
+
   [class*='col-'] {
     margin: 1rem;
+    padding: 0%;
   }
   
   .col-1-3 {
